@@ -11,4 +11,4 @@ sort_order: forward
 ---
 
 <!-- $[1]Talks will be 4-5pm CT on Wednesdays @ Shelby 3129 (CSSE Seminar Room)$ -->
-The following are AI-related talks by Auburn Univeristy Computer Software Engineering Department for Spring 2022.
+The following are AI-related talks by Auburn Univeristy Computer Science & Software Engineering Department for Spring 2022.
